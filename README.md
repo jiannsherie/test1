@@ -1,9 +1,7 @@
 # test1
 MonNov16 second try - Made changes
 
-<h1>Reflection and Discussion</h1>
-<br>
-<h2>Notes taken</h2>
+<h2> Reflection and Discussion </h2>
 
 Git - version control
 GitHub - online code storage
