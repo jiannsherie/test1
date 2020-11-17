@@ -4,7 +4,7 @@ MonNov16 second try - Made changes
 <h1>Reflection and Discussion</h1>
 <br>
 <h2>Notes taken</h2>
-<p>
+
 Git - version control
 GitHub - online code storage
 Best way to take a team task without conflicts.
@@ -23,4 +23,4 @@ A repository can be housed locally to your machine via a clone.
 
 Working in terminal creative a project folder via mkdir projects, then cd projects.  Following that, enter git clone and paste the copied link form GitHub.
 
-</p>
+
